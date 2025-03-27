@@ -143,12 +143,100 @@
         "full_width": false,
         "spacing": "small"
       }
+    },
+    "media_with_text_ffmJqT": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_78AwYn": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/mullein3.png",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center-start text-start",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Why IonicBlitz",
+            "content": "<p><strong>✔️ Natural Lung Support – Mullein clears airways, and Chlorophyll boosts oxygen flow. 💨</strong></p><p><strong>🌱 Breathe Easier – Reduces irritation and improves airflow.</strong></p><p><strong>🌟 Antioxidant Power – Supports natural defense and overall wellness.</strong></p>",
+            "link_text": "Buy now",
+            "link_url": "shopify://products/mullein-leaf-extract",
+            "background": "#a7c957",
+            "background_gradient": "",
+            "text_color": "#5c504a",
+            "text_gradient": "",
+            "button_background": "#5c504a",
+            "button_text_color": "#a7c957"
+          }
+        }
+      },
+      "block_order": [
+        "image_78AwYn"
+      ],
+      "settings": {
+        "full_width": false,
+        "spacing": "small"
+      }
+    },
+    "faq_6ATxGV": {
+      "type": "faq",
+      "blocks": {
+        "item_HkrhVa": {
+          "type": "item",
+          "settings": {
+            "title": "Do you ship overseas?",
+            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+          }
+        },
+        "item_iGA6jd": {
+          "type": "item",
+          "settings": {
+            "title": "How long will it take to get my orders?",
+            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+          }
+        },
+        "item_k4C8fy": {
+          "type": "item",
+          "settings": {
+            "title": "Any question?",
+            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_HkrhVa",
+        "item_iGA6jd",
+        "item_k4C8fy"
+      ],
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "FAQ",
+        "content": "<p>Use this text to share information about your product or shipping policies.</p>",
+        "team_avatar_width": 160,
+        "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
+        "answer_time": "Average answer time: 24h",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
     }
   },
   "order": [
     "image_with_text_overlay_bbjgHY",
     "testimonials_LFmTar",
     "scrolling-text",
-    "media_with_text_LWUCYE"
+    "media_with_text_LWUCYE",
+    "media_with_text_ffmJqT",
+    "faq_6ATxGV"
   ]
 }
