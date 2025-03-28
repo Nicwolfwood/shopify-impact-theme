@@ -623,21 +623,37 @@
           "type": "item",
           "settings": {
             "title": "Can Mullein Leaf Extract help my respiratory condition?",
-            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+            "content": "<p>Mullein Leaf Extract is completely safe, with no known side effects. It helps your body naturally clear your airways without steroids, chemicals, or toxins.</p>"
+          }
+        },
+        "item_eKNnD4": {
+          "type": "item",
+          "settings": {
+            "title": "What Are The Benefits Of Mullein?",
+            "content": "<p>Mullein has been used for years to support lung and respiratory health.</p>"
           }
         },
         "item_pfDdjy": {
           "type": "item",
           "settings": {
-            "title": "Any question?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "title": "Is this product safe for daily use?",
+            "content": "<p>Yes, this product is safe for daily use. Made from 100% natural ingredients, it’s gentle on your body while delivering effective health benefits.</p>"
+          }
+        },
+        "item_wHdwhG": {
+          "type": "item",
+          "settings": {
+            "title": "How long should I use it for?",
+            "content": "<p>Start with 2 drops daily and continue as needed. The longer you use it, the more support you'll give your lungs.</p>"
           }
         }
       },
       "block_order": [
         "item_Nj9UNf",
         "item_QKJLaL",
-        "item_pfDdjy"
+        "item_eKNnD4",
+        "item_pfDdjy",
+        "item_wHdwhG"
       ],
       "settings": {
         "full_width": true,
