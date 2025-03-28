@@ -184,39 +184,47 @@
         "item_HkrhVa": {
           "type": "item",
           "settings": {
-            "title": "Do you ship overseas?",
-            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+            "title": "What are the main benefits of Organic Sea Moss and Shilajit?",
+            "content": "<p>Strengthen immunity, balance thyroid, glow from within, boost energy, relieve stress, and support a healthy weight, feel your best every day!</p>"
           }
         },
         "item_iGA6jd": {
           "type": "item",
           "settings": {
-            "title": "How long will it take to get my orders?",
-            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+            "title": "What Is Mullein & Chlorophyll Extract?",
+            "content": "<p>This powerful liquid supplement is formulated to support clear lungs and easy breathing naturally.</p>"
           }
         },
         "item_k4C8fy": {
           "type": "item",
           "settings": {
-            "title": "Any question?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "title": "What does the blend feel like?",
+            "content": "<p>Feel energized, clear-headed, and balanced, like a natural reset for your body, leaving you refreshed and ready to conquer the day! 🚀</p>"
+          }
+        },
+        "item_EVM3Ei": {
+          "type": "item",
+          "settings": {
+            "title": "Are there any side effects?",
+            "content": "<p>Our formula is 100% natural and safe, with no known side effects. Designed to support your body’s natural functions for better health and vitality! </p>"
           }
         }
       },
       "block_order": [
         "item_HkrhVa",
         "item_iGA6jd",
-        "item_k4C8fy"
+        "item_k4C8fy",
+        "item_EVM3Ei"
       ],
       "settings": {
         "full_width": true,
         "subheading": "",
         "title": "FAQ",
-        "content": "<p>Use this text to share information about your product or shipping policies.</p>",
+        "content": "",
         "team_avatar_width": 160,
-        "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
-        "answer_time": "Average answer time: 24h",
-        "button_text": "",
+        "support_hours": "",
+        "answer_time": "Fuel Your Body, Elevate Your Life! 🚀",
+        "button_text": "Buy now",
         "button_url": "",
         "text_position": "center",
         "background": "",
