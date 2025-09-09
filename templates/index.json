@@ -15,7 +15,7 @@
         "heading_3XwBDP": {
           "type": "heading",
           "settings": {
-            "text": "Image with text overlay",
+            "text": "",
             "heading_tag": "h1"
           }
         }
@@ -28,7 +28,6 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/bannermullein_2_2.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -36,215 +35,431 @@
         "overlay_opacity": 30
       }
     },
-    "testimonials_LFmTar": {
-      "type": "testimonials",
+    "logo_list_7URL7X": {
+      "type": "logo-list",
       "blocks": {
-        "testimonial_Dcegah": {
-          "type": "testimonial",
+        "logo_6AiFjc": {
+          "type": "logo",
           "settings": {
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 4,
-            "author": "John S.",
-            "title": "Testimonial 1",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+            "logo_width": 120,
+            "link": ""
           }
         },
-        "testimonial_aqRy3U": {
-          "type": "testimonial",
+        "logo_EAYCN9": {
+          "type": "logo",
           "settings": {
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 5,
-            "author": "Mary U.",
-            "title": "Testimonial 2",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+            "logo_width": 120,
+            "link": ""
           }
         },
-        "testimonial_8DL6b6": {
-          "type": "testimonial",
+        "logo_rajxye": {
+          "type": "logo",
           "settings": {
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 4,
-            "author": "Joshua A.",
-            "title": "Testimonial 3",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_fCzNbX": {
+          "type": "logo",
+          "settings": {
+            "logo_width": 120,
+            "link": ""
           }
         }
       },
       "block_order": [
-        "testimonial_Dcegah",
-        "testimonial_aqRy3U",
-        "testimonial_8DL6b6"
+        "logo_6AiFjc",
+        "logo_EAYCN9",
+        "logo_rajxye",
+        "logo_fCzNbX"
       ],
+      "name": "Logo list",
       "settings": {
         "full_width": true,
-        "stack_testimonials": true,
-        "subheading": "",
-        "title": "Testimonials",
+        "stack_mobile": true,
+        "title": "Logo list",
         "content": "",
-        "link_url": "",
-        "link_text": "",
+        "text_alignment": "center",
+        "items_per_row": 4,
         "background": "",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
         "heading_gradient": "",
-        "testimonial_card_background": "",
-        "testimonial_card_text_color": ""
+        "logo_item_background": "",
+        "logo_item_border": ""
       }
     },
-    "scrolling-text": {
-      "type": "scrolling-text",
+    "rich_text_4h4zPH": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_Hbc3QV": {
+          "type": "heading",
+          "settings": {
+            "text": "Heading",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_Hbc3QV"
+      ],
+      "name": "Rich text",
       "settings": {
         "full_width": true,
-        "text": "🌸 Spring Refresh! Up to 50% OFF – While Stocks Last!",
-        "text_size": "large",
-        "text_style": "fill",
-        "scrolling_mode": "auto",
-        "scrolling_speed": 5,
-        "background": "#a7c957",
-        "background_gradient": "",
-        "text_color": "",
-        "text_gradient": ""
-      }
-    },
-    "media_with_text_LWUCYE": {
-      "type": "media-with-text",
-      "blocks": {
-        "image_DBrj6M": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/shilahomepage.png",
-            "media_width": 50,
-            "media_position": "start",
-            "text_position": "place-self-center-start text-start",
-            "icon": "none",
-            "icon_width": 48,
-            "subheading": "",
-            "title": "Why IonicBlitz",
-            "content": "<ul><li>Unleash your full potential with our Dynamic Vitality Bundle! ⚡ Boost energy, sharpen focus, and support overall well-being, fuel your body for unstoppable performance every day! 💪<br/><br/></li><li>100+ Carefully selected ingredients</li><li>1 Bottle with 20 supplements inside</li><li>23% Avg. increase in testosterone</li><li>964 Product safety tests<br/></li></ul>",
-            "link_text": "Buy now",
-            "link_url": "shopify://products/shilajit-blend",
-            "background": "#a7c957",
-            "background_gradient": "",
-            "text_color": "#5c504a",
-            "text_gradient": "",
-            "button_background": "#5c504a",
-            "button_text_color": "#a7c957"
-          }
-        }
-      },
-      "block_order": [
-        "image_DBrj6M"
-      ],
-      "settings": {
-        "full_width": false,
-        "spacing": "small"
-      }
-    },
-    "media_with_text_ffmJqT": {
-      "type": "media-with-text",
-      "blocks": {
-        "image_78AwYn": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/mullein3.png",
-            "media_width": 50,
-            "media_position": "start",
-            "text_position": "place-self-center-start text-start",
-            "icon": "none",
-            "icon_width": 48,
-            "subheading": "",
-            "title": "Why IonicBlitz",
-            "content": "<p><strong>✔️ Natural Lung Support – Mullein clears airways, and Chlorophyll boosts oxygen flow. 💨</strong></p><p><strong>🌱 Breathe Easier – Reduces irritation and improves airflow.</strong></p><p><strong>🌟 Antioxidant Power – Supports natural defense and overall wellness.</strong></p>",
-            "link_text": "Buy now",
-            "link_url": "shopify://products/mullein-leaf-extract",
-            "background": "#a7c957",
-            "background_gradient": "",
-            "text_color": "#5c504a",
-            "text_gradient": "",
-            "button_background": "#5c504a",
-            "button_text_color": "#a7c957"
-          }
-        }
-      },
-      "block_order": [
-        "image_78AwYn"
-      ],
-      "settings": {
-        "full_width": false,
-        "spacing": "small"
-      }
-    },
-    "faq_6ATxGV": {
-      "type": "faq",
-      "blocks": {
-        "item_HkrhVa": {
-          "type": "item",
-          "settings": {
-            "title": "What are the main benefits of Organic Sea Moss and Shilajit?",
-            "content": "<p>Strengthen immunity, balance thyroid, glow from within, boost energy, relieve stress, and support a healthy weight, feel your best every day!</p>"
-          }
-        },
-        "item_iGA6jd": {
-          "type": "item",
-          "settings": {
-            "title": "What Is Mullein & Chlorophyll Extract?",
-            "content": "<p>This powerful liquid supplement is formulated to support clear lungs and easy breathing naturally.</p>"
-          }
-        },
-        "item_k4C8fy": {
-          "type": "item",
-          "settings": {
-            "title": "What does the blend feel like?",
-            "content": "<p>Feel energized, clear-headed, and balanced, like a natural reset for your body, leaving you refreshed and ready to conquer the day! 🚀</p>"
-          }
-        },
-        "item_EVM3Ei": {
-          "type": "item",
-          "settings": {
-            "title": "Are there any side effects?",
-            "content": "<p>Our formula is 100% natural and safe, with no known side effects. Designed to support your body’s natural functions for better health and vitality! </p>"
-          }
-        }
-      },
-      "block_order": [
-        "item_HkrhVa",
-        "item_iGA6jd",
-        "item_k4C8fy",
-        "item_EVM3Ei"
-      ],
-      "settings": {
-        "full_width": true,
-        "subheading": "",
-        "title": "FAQ",
-        "content": "",
-        "team_avatar_width": 160,
-        "support_hours": "",
-        "answer_time": "Fuel Your Body, Elevate Your Life! 🚀",
-        "button_text": "Buy now",
-        "button_url": "",
+        "content_width": "small",
         "text_position": "center",
         "background": "",
         "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "image_with_text_overlay_Wbfq3W": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "rich_text_MyGWry": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_bPgaMy": {
+          "type": "heading",
+          "settings": {
+            "text": "Heading",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_bPgaMy"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "multi_column_6FbznC": {
+      "type": "multi-column",
+      "blocks": {
+        "item_77PqQQ": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_L7Xqgt": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_mfFmGd": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_77PqQQ",
+        "item_L7Xqgt",
+        "item_mfFmGd"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "start",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "featured_product_TBKhLy": {
+      "type": "featured-product",
+      "blocks": {
+        "vendor_VQqyCM": {
+          "type": "vendor",
+          "settings": {}
+        },
+        "title_rRxTXg": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h2"
+          }
+        },
+        "badges_xzekgR": {
+          "type": "badges",
+          "settings": {}
+        },
+        "price_gXjFBR": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "rating_ibXqnj": {
+          "type": "rating",
+          "settings": {
+            "show_empty": false
+          }
+        },
+        "separator_YdXgTt": {
+          "type": "separator",
+          "settings": {}
+        },
+        "description_43kUkC": {
+          "type": "description",
+          "settings": {
+            "collapse_content": false
+          }
+        },
+        "variant_picker_PPGWp3": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "stack_blocks": true,
+            "selector_mode": "block",
+            "color_mode": "color",
+            "size_chart_page": ""
+          }
+        },
+        "quantity_selector_yV3UHk": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons_nHhhJL": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": true,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        },
+        "pickup_availability_yM3VGA": {
+          "type": "pickup_availability",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "vendor_VQqyCM",
+        "title_rRxTXg",
+        "badges_xzekgR",
+        "price_gXjFBR",
+        "rating_ibXqnj",
+        "separator_YdXgTt",
+        "description_43kUkC",
+        "variant_picker_PPGWp3",
+        "quantity_selector_yV3UHk",
+        "buy_buttons_nHhhJL",
+        "pickup_availability_yM3VGA"
+      ],
+      "name": "Featured product",
+      "settings": {
+        "full_width": true,
+        "product": "",
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_left",
+        "mobile_media_size": "expanded",
+        "mobile_carousel_control": "floating_dots",
+        "enable_video_autoplay": true,
+        "enable_video_looping": false,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
+      }
+    },
+    "tabs_pz76Qc": {
+      "type": "tabs",
+      "blocks": {
+        "tab_thFprw": {
+          "type": "tab",
+          "settings": {
+            "title": "Tab 1",
+            "content": "<p>Use this text to share information about your brand with your customers.</p>",
+            "page": ""
+          }
+        },
+        "tab_MpEVWB": {
+          "type": "tab",
+          "settings": {
+            "title": "Tab 2",
+            "content": "<p>Describe a product, share announcements, or welcome customers to your store.</p>",
+            "page": ""
+          }
+        },
+        "tab_HQ7LQf": {
+          "type": "tab",
+          "settings": {
+            "title": "Tab 3",
+            "content": "<p>Share information about your shipping rates, return policy or contact information.</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "tab_thFprw",
+        "tab_MpEVWB",
+        "tab_HQ7LQf"
+      ],
+      "name": "Tabs",
+      "settings": {
+        "full_width": true,
+        "content_size": "medium",
+        "subheading": "Subheading",
+        "title": "Heading",
+        "first_tab_open": false,
+        "background": "",
+        "background_gradient": "",
         "text_color": "",
         "heading_color": "",
-        "heading_gradient": "",
-        "button_background": "",
-        "button_text_color": "",
-        "accordion_background": "",
-        "accordion_text_color": ""
+        "heading_gradient": ""
+      }
+    },
+    "rich_text_6dKnUa": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_RqWCmU": {
+          "type": "heading",
+          "settings": {
+            "text": "Heading",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_RqWCmU"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "multi_column_QzpX3t": {
+      "type": "multi-column",
+      "blocks": {
+        "item_889AcP": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_erhdg8": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_fdtEqN": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_889AcP",
+        "item_erhdg8",
+        "item_fdtEqN"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "start",
+        "subheading": "About",
+        "title": "Featured content",
+        "content": "<p>Organize content into multiple columns to share useful information to your customers about your products, values...</p>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
       }
     }
   },
   "order": [
     "image_with_text_overlay_bbjgHY",
-    "testimonials_LFmTar",
-    "scrolling-text",
-    "media_with_text_LWUCYE",
-    "media_with_text_ffmJqT",
-    "faq_6ATxGV"
+    "logo_list_7URL7X",
+    "rich_text_4h4zPH",
+    "image_with_text_overlay_Wbfq3W",
+    "rich_text_MyGWry",
+    "multi_column_6FbznC",
+    "featured_product_TBKhLy",
+    "tabs_pz76Qc",
+    "rich_text_6dKnUa",
+    "multi_column_QzpX3t"
   ]
 }
