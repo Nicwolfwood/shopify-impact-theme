@@ -41,6 +41,7 @@
         "logo_6AiFjc": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/Comopolitan_Magazine_Logo_1bf42560-9a59-4d98-bdb1-b784fcf42ce4_2.svg",
             "logo_width": 120,
             "link": ""
           }
@@ -48,6 +49,7 @@
         "logo_EAYCN9": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/logo-seo_1_1.avif",
             "logo_width": 120,
             "link": ""
           }
@@ -55,6 +57,7 @@
         "logo_rajxye": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/Marie_Claire_Magazine_logo.svg_1_1.avif",
             "logo_width": 120,
             "link": ""
           }
@@ -62,6 +65,7 @@
         "logo_fCzNbX": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/1200px-VOGUE_revista_-_logo_1_1.png",
             "logo_width": 120,
             "link": ""
           }
