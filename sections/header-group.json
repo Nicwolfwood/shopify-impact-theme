@@ -17,13 +17,29 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "Announce something here",
+            "text": "SCHULANFANG ANGEBOT -50%",
+            "url": ""
+          }
+        },
+        "message_G8XQKi": {
+          "type": "message",
+          "settings": {
+            "text": "KOSTENLOSER VERSAND",
+            "url": ""
+          }
+        },
+        "message_zTyMVR": {
+          "type": "message",
+          "settings": {
+            "text": "NUR SOLANGE VORRAT REICHT",
             "url": ""
           }
         }
       },
       "block_order": [
-        "message"
+        "message",
+        "message_G8XQKi",
+        "message_zTyMVR"
       ],
       "settings": {
         "enable_sticky": false,

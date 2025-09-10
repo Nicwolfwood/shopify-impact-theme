@@ -28,11 +28,13 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
+        "image": "shopify://shop_images/BaniereAuris_1.webp",
+        "mobile_image": "shopify://shop_images/BaniereAuris_1.webp",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
-        "overlay_opacity": 30
+        "overlay_opacity": 0
       }
     },
     "logo_list_7URL7X": {
@@ -81,7 +83,7 @@
       "settings": {
         "full_width": true,
         "stack_mobile": true,
-        "title": "Logo list",
+        "title": "Bekannt aus :",
         "content": "",
         "text_alignment": "center",
         "items_per_row": 4,
@@ -100,8 +102,8 @@
         "heading_Hbc3QV": {
           "type": "heading",
           "settings": {
-            "text": "Heading",
-            "heading_tag": "h1",
+            "text": "Von schmerzhaftem Kratzen zu sofortiger Erleichterung",
+            "heading_tag": "h3",
             "text_color": "",
             "gradient": ""
           }
@@ -109,6 +111,47 @@
       },
       "block_order": [
         "heading_Hbc3QV"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "video_TYCPgn": {
+      "type": "video",
+      "name": "Video",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "autoplay": true,
+        "video_size": "auto",
+        "video": "shopify://files/videos/Design sans titre (1) (1).mp4",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "rich_text_keLdy9": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_efhnVB": {
+          "type": "heading",
+          "settings": {
+            "text": "Warum ist Auris™ Pro im Alltag unverzichtbar?",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_efhnVB"
       ],
       "name": "Rich text",
       "settings": {
@@ -128,6 +171,8 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
+        "image": "shopify://shop_images/AurisBenefice.webp",
+        "mobile_image": "shopify://shop_images/AurisBenefice.webp",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -141,15 +186,22 @@
         "heading_bPgaMy": {
           "type": "heading",
           "settings": {
-            "text": "Heading",
-            "heading_tag": "h1",
+            "text": "Unsere Kunden sagen es am besten:",
+            "heading_tag": "h3",
             "text_color": "",
             "gradient": ""
+          }
+        },
+        "liquid_rgfNwX": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div style=\"font-family: DIN NEXT, DIN NEXT; background-color: #f9f9f9; padding: 18px; max-width: 400px; border-radius: 12px;\">\n  <div style=\"display: flex; align-items: center; gap: 10px;\">\n    <span style=\"font-size: 20px; font-weight: bold;\">Super</span>\n    <span style=\"font-size: 22px; font-weight: bold;\">4.8 / 5</span>\n    <img src=\"https://cdn.shopify.com/s/files/1/0933/2922/8163/files/stars-5.svg?v=1750621001\" alt=\"5 étoiles Trustpilot\" width=\"105\" height=\"22\">\n  </div>\n  <div style=\"margin-top: 10px; font-size: 17px; display: flex; align-items: center;\">\n    <span> aus <span style=\"font-weight: bold; text-decoration: underline;\">+3 494</span> bewertungen</span>\n    <img src=\"https://cdn.shopify.com/s/files/1/0933/2922/8163/files/Trustpilot_logo_1.png?v=1750617153\" alt=\"Trustpilot\" width=\"90\" style=\"margin-left: 8px;\">\n  </div>\n</div>"
           }
         }
       },
       "block_order": [
-        "heading_bPgaMy"
+        "heading_bPgaMy",
+        "liquid_rgfNwX"
       ],
       "name": "Rich text",
       "settings": {
@@ -164,13 +216,27 @@
     "multi_column_6FbznC": {
       "type": "multi-column",
       "blocks": {
+        "item_mfFmGd": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/1_1.webp",
+            "column_size": "3",
+            "title": "Claire T.",
+            "heading_tag": "h4",
+            "content": "<p><em>\"Endlich ausprobiert nach wochenlangem Jucken und Pfeifen im Ohr. Zwei Mal verwendet und das Problem war erledigt. Echt krass\"</em></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
         "item_77PqQQ": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/1-_3.webp",
             "column_size": "3",
-            "title": "Column title",
+            "title": "David A.",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p><em>\"Mein HNO hat mir das empfohlen und meinte, ich soll die Wattestäbchen lassen. Seit dem keine verstopften Ohren mehr und endlich Ruhe.\"</em></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -179,22 +245,63 @@
         "item_L7Xqgt": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/1_6.webp",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Bastian N.",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p><em>\"War erst vorsichtig, weil ich Angst hatte... aber die Spitzen sind echt sanft. Tut überhaupt nicht weh und funktioniert klasse.\"</em></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
           }
         },
-        "item_mfFmGd": {
+        "item_QbwpCd": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/1-_1.webp",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Janice L.",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p><em>\"Verblüffendes Ergebnis beim ersten Mal. Ich war begeistert und habe gleich ein zweites für meine Mutter bestellt\"</em></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_cciiUy": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/1-_2.webp",
+            "column_size": "3",
+            "title": "Julia A.",
+            "heading_tag": "h4",
+            "content": "<p><em>\"Seit Monaten dieser seltsame Druck im Ohr. Krass viel Schmalz war da drin, hab alles rausgeholt und endlich Ruhe. Nie wieder diese Wattedinger!\"</em></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_QpgiVf": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/1-_4.webp",
+            "column_size": "3",
+            "title": "Maëlle P.",
+            "heading_tag": "h4",
+            "content": "<p><em>\"Dauernd Ohrentzündungen durch die Wattestäbchen gehabt, aber seit Auris höre ich viel besser und keine Probleme mehr\"</em></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_z9izCP": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/1-_5.webp",
+            "column_size": "3",
+            "title": "Thomas F.",
+            "heading_tag": "h4",
+            "content": "<p><em>\"3er-Set für die ganze Familie geholt, funktioniert prima. Gehört jetzt zur täglichen Routine wie Zähneputzen\"</em></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -202,9 +309,13 @@
         }
       },
       "block_order": [
+        "item_mfFmGd",
         "item_77PqQQ",
         "item_L7Xqgt",
-        "item_mfFmGd"
+        "item_QbwpCd",
+        "item_cciiUy",
+        "item_QpgiVf",
+        "item_z9izCP"
       ],
       "name": "Multi-column",
       "settings": {
@@ -458,6 +569,8 @@
     "image_with_text_overlay_bbjgHY",
     "logo_list_7URL7X",
     "rich_text_4h4zPH",
+    "video_TYCPgn",
+    "rich_text_keLdy9",
     "image_with_text_overlay_Wbfq3W",
     "rich_text_MyGWry",
     "multi_column_6FbznC",
