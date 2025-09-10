@@ -684,6 +684,32 @@
         "background_gradient": "",
         "text_color": ""
       }
+    },
+    "rich_text_VmVtkX": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_axkwyX": {
+          "type": "heading",
+          "settings": {
+            "text": "Saubere Ohren in nur 4 Schritten",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_axkwyX"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
@@ -701,6 +727,7 @@
     "multi_column_QzpX3t",
     "rich_text_f4cJjz",
     "media_grid_ekD76X",
-    "rich_text_PR9CWe"
+    "rich_text_PR9CWe",
+    "rich_text_VmVtkX"
   ]
 }
