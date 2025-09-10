@@ -710,6 +710,281 @@
         "background_gradient": "",
         "text_color": ""
       }
+    },
+    "howtouse_e4X97H": {
+      "type": "Howtouse",
+      "blocks": {
+        "step_aUzLwz": {
+          "type": "step",
+          "settings": {
+            "video_url": "https://cdn.shopify.com/videos/c/o/v/3a2a180f7bd449aaa25892fa975f005b.mp4",
+            "title": "Scannen Sie den QR-Code mit Ihrer Kamera",
+            "description": "",
+            "alignment": "left"
+          }
+        },
+        "step_q49cy9": {
+          "type": "step",
+          "settings": {
+            "video_url": "https://cdn.shopify.com/videos/c/o/v/320177411395475aa15a29839b683074.mp4",
+            "title": "Taste drücken zum Einschalten",
+            "description": "",
+            "alignment": "left"
+          }
+        },
+        "step_X4bYF8": {
+          "type": "step",
+          "settings": {
+            "video_url": "https://cdn.shopify.com/videos/c/o/v/80c0e552d8c2465a9460a76950ffb28c.mp4",
+            "title": "Verbinden Sie das Gerät mit dem WLAN",
+            "description": "",
+            "alignment": "left"
+          }
+        },
+        "step_fnGWUX": {
+          "type": "step",
+          "settings": {
+            "video_url": "https://cdn.shopify.com/videos/c/o/v/92d2b1ce1a964ae4b8737b1af0effeae.mp4",
+            "title": "Vorsichtig einführen und nutzen",
+            "description": "",
+            "alignment": "left"
+          }
+        }
+      },
+      "block_order": [
+        "step_aUzLwz",
+        "step_q49cy9",
+        "step_X4bYF8",
+        "step_fnGWUX"
+      ],
+      "name": "How to Use",
+      "settings": {
+        "title": "",
+        "title_alignment": "left",
+        "bg_color": "#faf8f5",
+        "text_color": "#000000",
+        "step_bg_color": "#ffffff",
+        "number_bg_color": "#1b2a36",
+        "number_text_color": "#ffffff"
+      }
+    },
+    "rich_text_xyR78q": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_acH4CQ": {
+          "type": "heading",
+          "settings": {
+            "text": "VON HNO-EXPERTEN EMPFOHLEN",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_acH4CQ"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "feature17_RTzNw7": {
+      "type": "Feature17",
+      "blocks": {
+        "item_74RjeA": {
+          "type": "item",
+          "settings": {
+            "percent": 94,
+            "text": "berichten von sofortiger Verbesserung des Hörkomforts"
+          }
+        },
+        "item_9agNmm": {
+          "type": "item",
+          "settings": {
+            "percent": 97,
+            "text": "hören deutlich besser nach der ersten Anwendung"
+          }
+        },
+        "item_NBDUAL": {
+          "type": "item",
+          "settings": {
+            "percent": 90,
+            "text": "empfehlen Auris Pro Familie und Freunden weiter"
+          }
+        },
+        "media_VTfhjW": {
+          "type": "media",
+          "settings": {
+            "media_type": "video",
+            "video": "shopify://files/videos/Copie de Copie de AURIS1 (1) (1).mp4",
+            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "use_controls": false,
+            "media_width": 100,
+            "media_width_mobile": 100,
+            "media_mt": 24,
+            "media_mt_mobile": 0,
+            "media_radius": 0,
+            "media_border_thickness": 0,
+            "media_border_color": "#faf8f5",
+            "media_ratio": "landscape",
+            "media_ratio_mobile": "landscape"
+          }
+        }
+      },
+      "block_order": [
+        "item_74RjeA",
+        "item_9agNmm",
+        "item_NBDUAL",
+        "media_VTfhjW"
+      ],
+      "name": "SS - Feature #17",
+      "settings": {
+        "body_gap": 64,
+        "body_gap_mobile": 0,
+        "content_horizontal_align": "center",
+        "content_horizontal_align_mobile": "center",
+        "heading": "",
+        "heading_custom": true,
+        "heading_font": "sans_serif_n4",
+        "heading_size": 36,
+        "heading_size_mobile": 28,
+        "heading_height": 130,
+        "items_mt": 16,
+        "items_mt_mobile": 10,
+        "item_padding_vertical": 10,
+        "item_padding_vertical_mobile": 10,
+        "item_gap": 16,
+        "item_gap_mobile": 16,
+        "item_border_thickness": 2,
+        "circle_size": 70,
+        "circle_size_mobile": 70,
+        "percent_custom": true,
+        "percent_font": "sans_serif_n4",
+        "percent_size": 18,
+        "percent_size_mobile": 18,
+        "percent_height": 130,
+        "item_text_custom": true,
+        "item_text_font": "sans_serif_n4",
+        "item_text_size": 16,
+        "item_text_size_mobile": 16,
+        "item_text_height": 150,
+        "bottom_text": "",
+        "bottom_text_custom": true,
+        "bottom_text_font": "sans_serif_n4",
+        "bottom_text_size": 12,
+        "bottom_text_size_mobile": 12,
+        "bottom_text_height": 130,
+        "bottom_text_mt": 16,
+        "bottom_text_mt_mobile": 0,
+        "bottom_text_align": "left",
+        "bottom_text_align_mobile": "left",
+        "item_border_color": "#faf8f5",
+        "circle_bg_color": "#FFFFFF",
+        "circle_progress": "#1b2a36",
+        "percent_color": "#1b2a36",
+        "item_text_color": "#000000",
+        "heading_color": "#000000",
+        "bottom_text_color": "#000000",
+        "background_color": "#faf8f5",
+        "background_gradient": "",
+        "border_color": "#000000",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "margin_horizontal": 0,
+        "margin_horizontal_mobile": 0,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_horizontal": 5,
+        "padding_horizontal_mobile": 1.5,
+        "full_width": false,
+        "content_width": 120,
+        "border_thickness": 0,
+        "section_radius": 0,
+        "lazy": true
+      }
+    },
+    "faq_CMjJiN": {
+      "type": "faq",
+      "blocks": {
+        "item_QTAKM4": {
+          "type": "item",
+          "settings": {
+            "title": "Sind die medizinischen Silikon-Aufsätze wiederverwendbar?",
+            "content": "<p><strong>Ja, die Aufsätze sind wiederverwendbar.</strong> Sie bestehen aus weichem medizinischem Silikon und sind so konzipiert, dass sie nach jeder Anwendung einfach gereinigt werden können. Einfach mit warmem Wasser und etwas milder Seife abspülen.</p>"
+          }
+        },
+        "item_EKLtCE": {
+          "type": "item",
+          "settings": {
+            "title": "Ist der Auris Ohrenreiniger wirklich effektiver als Wattestäbchen?",
+            "content": "<p><strong>Ja, und das ist bewiesen.</strong> Im Gegensatz zu Wattestäbchen, die das Wachs tiefer hineinschieben, ermöglicht Auris eine Reinigung mit voller Sichtbarkeit und entfernt Ohrenschmalz sanft, ohne Schmerzen oder Gefahr.</p>"
+          }
+        },
+        "item_XenLGw": {
+          "type": "item",
+          "settings": {
+            "title": "Ist es sicher für die Trommelfelle ?",
+            "content": "<p><strong>Absolut.</strong> Dank seiner weichen medizinischen Silikon-Aufsätze und der selbstregulierenden Temperatur reinigt Auris™ ohne zu verletzen.</p>"
+          }
+        },
+        "item_7jAj8E": {
+          "type": "item",
+          "settings": {
+            "title": "Ist es mit allen Handys kompatibel ?",
+            "content": "<p><strong>Ja, Auris™ funktioniert mit allen Android- und iOS-Smartphones.</strong> Die App ist 100% kostenlos.</p>"
+          }
+        },
+        "item_tdV7kg": {
+          "type": "item",
+          "settings": {
+            "title": "Wird es von Fachärzten empfohlen ?",
+            "content": "<p><strong>Ja!</strong> HNO-Ärzte raten von Wattestäbchen ab. Auris™ Pro ist eine sanfte, präzise und 100% sichere Alternative.</p>"
+          }
+        },
+        "item_9YzkTg": {
+          "type": "item",
+          "settings": {
+            "title": "Kann Auris™ Pro auch bei Kindern verwendet werden ?",
+            "content": "<p><strong>Ja, ab 6 Jahren und unter Aufsicht eines Erwachsenen.</strong> Dank der ultra-weichen medizinischen Silikon-Aufsätze bleibt die Reinigung <strong>sicher und schmerzfrei</strong>, auch für die Kleinsten.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_QTAKM4",
+        "item_EKLtCE",
+        "item_XenLGw",
+        "item_7jAj8E",
+        "item_tdV7kg",
+        "item_9YzkTg"
+      ],
+      "name": "FAQ",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "FAQ",
+        "content": "",
+        "team_avatar_width": 160,
+        "support_hours": "",
+        "answer_time": "",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
     }
   },
   "order": [
@@ -728,6 +1003,10 @@
     "rich_text_f4cJjz",
     "media_grid_ekD76X",
     "rich_text_PR9CWe",
-    "rich_text_VmVtkX"
+    "rich_text_VmVtkX",
+    "howtouse_e4X97H",
+    "rich_text_xyR78q",
+    "feature17_RTzNw7",
+    "faq_CMjJiN"
   ]
 }

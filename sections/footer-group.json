@@ -14,6 +14,14 @@
     "footer": {
       "type": "footer",
       "blocks": {
+        "text": {
+          "type": "text",
+          "settings": {
+            "title": "Brauchen Sie Hilfe ?",
+            "content": "<p>Kontaktieren Sie uns über unser Kontaktformular auf der Kontaktseite oder per E-Mail an<strong> </strong><a href=\"mailto:contact@tryauris.com\"><strong>contact@tryauris.com</strong></a></p><p><strong>Öffnungszeiten</strong>: Mo bis Fr von 9 bis 12 Uhr und von 14 bis 18 Uhr / Sa und So von 10 bis 12 Uhr</p>",
+            "enable_follow_on_shop": false
+          }
+        },
         "newsletter": {
           "type": "newsletter",
           "settings": {
@@ -29,20 +37,12 @@
             "menu": "footer",
             "show_menu_title": true
           }
-        },
-        "text": {
-          "type": "text",
-          "settings": {
-            "title": "About",
-            "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme editor.</p>",
-            "enable_follow_on_shop": true
-          }
         }
       },
       "block_order": [
+        "text",
         "newsletter",
-        "links",
-        "text"
+        "links"
       ],
       "settings": {
         "show_social_media": true,
