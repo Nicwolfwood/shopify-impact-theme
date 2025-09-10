@@ -438,39 +438,57 @@
         "tab_thFprw": {
           "type": "tab",
           "settings": {
-            "title": "Tab 1",
-            "content": "<p>Use this text to share information about your brand with your customers.</p>",
+            "title": "Warum werden Sie es lieben ?",
+            "content": "<p><strong>Der AURIS Ohrenreiniger</strong> ist mit einer <strong>ultra-präzisen HD-Kamera</strong> und einem <strong>weichen medizinischen Silikon-Aufsatz</strong> ausgestattet, für eine <strong>83% sicherere und effektivere</strong> Reinigung als herkömmliche Wattestäbchen.</p><p>Entwickelt für Ihren <strong>Komfort und Ihre Sicherheit</strong> - eliminiert Verletzungsrisiken und schützt Ihr Gehör.</p><p>Das Ergebnis: <strong>saubere, gesunde</strong> Ohren und ein Gefühl <strong>vollständiger Kontrolle</strong>, egal wo Sie sind.</p><p><strong>Details:</strong></p><ul><li><strong>HD-Kamera</strong> für jeden sichtbaren Bereich</li><li><strong>Sanfte medizinische Aufsätze</strong>, null Schmerzen</li><li><strong>Sofortige WiFi-Verbindung</strong></li><li><strong>KOSTENLOSE App</strong>, einfach und schnell zu bedienen</li><li><strong>Langlebige Batterie</strong>, immer einsatzbereit</li><li><strong>CE-zertifiziert</strong>, sicher & zuverlässig im Alltag</li></ul>",
+            "page": ""
+          }
+        },
+        "tab_njJAeN": {
+          "type": "tab",
+          "settings": {
+            "title": "Das ist im Reyova™ Pro Kit enthalten",
+            "content": "<p><strong>Alles was Sie für die sofortige Anwendung brauchen:</strong></p><p>1x AURIS™ Pro Ohrenreiniger<br/>4x Medizinische Silikon-Aufsätze GRATIS<br/>1x USB-C Ladekabel<br/><br/>1x Bedienungsanleitung mit QR-Code zum Download unserer App</p><p><em>Einsatzbereit in unter 2 Minuten.</em></p>",
             "page": ""
           }
         },
         "tab_MpEVWB": {
           "type": "tab",
           "settings": {
-            "title": "Tab 2",
-            "content": "<p>Describe a product, share announcements, or welcome customers to your store.</p>",
+            "title": "KOSTENLOSER Versand",
+            "content": "<p>Wir bieten Ihnen <strong>kostenlosen Versand</strong> für alle Ihre Bestellungen, egal wo Sie sich befinden.</p><p>Genießen Sie unsere hochwertigen Produkte ohne zusätzliche Kosten, direkt und sorgenfrei zu Ihnen nach Hause geliefert.</p>",
             "page": ""
           }
         },
         "tab_HQ7LQf": {
           "type": "tab",
           "settings": {
-            "title": "Tab 3",
-            "content": "<p>Share information about your shipping rates, return policy or contact information.</p>",
+            "title": "45 Tage zufrieden oder Geld zurück",
+            "content": "<p>Wir sind von der Qualität und Sicherheit Ihres AURIS Ohrenreinigers überzeugt. Deshalb bieten wir eine <strong>45-Tage-Geld-zurück-Garantie</strong>.</p><p><strong>Testen Sie es</strong>, und falls Sie nicht vollständig zufrieden sind, schreiben Sie uns - wir <strong>erstatten Ihnen den vollen Betrag zurück</strong>, ohne Fragen zu stellen.</p>",
+            "page": ""
+          }
+        },
+        "tab_CHExnX": {
+          "type": "tab",
+          "settings": {
+            "title": "Kundenservice 7/7",
+            "content": "<p>Unser Kundenservice steht Ihnen 7 Tage die Woche zur Verfügung.</p><p>Sie können uns über den \"Kontakt\"-Bereich unseres Shops oder per E-Mail unter <a href=\"mailto:contact@tryauris.com\"><strong>contact@tryauris.com</strong></a> erreichen.</p>",
             "page": ""
           }
         }
       },
       "block_order": [
         "tab_thFprw",
+        "tab_njJAeN",
         "tab_MpEVWB",
-        "tab_HQ7LQf"
+        "tab_HQ7LQf",
+        "tab_CHExnX"
       ],
       "name": "Tabs",
       "settings": {
         "full_width": true,
         "content_size": "medium",
-        "subheading": "Subheading",
-        "title": "Heading",
+        "subheading": "",
+        "title": "",
         "first_tab_open": false,
         "background": "",
         "background_gradient": "",
@@ -485,8 +503,8 @@
         "heading_RqWCmU": {
           "type": "heading",
           "settings": {
-            "text": "Heading",
-            "heading_tag": "h1",
+            "text": "Mehr als 15.000 Anwender verzichten jetzt auf Wattestäbchen",
+            "heading_tag": "h3",
             "text_color": "",
             "gradient": ""
           }
@@ -511,6 +529,7 @@
         "item_889AcP": {
           "type": "item",
           "settings": {
+            "video": "shopify://files/videos/MultiColumn1Vid (1).mp4",
             "column_size": "3",
             "title": "",
             "heading_tag": "h4",
@@ -523,6 +542,7 @@
         "item_erhdg8": {
           "type": "item",
           "settings": {
+            "video": "shopify://files/videos/MultiColumn2 (1).mov",
             "column_size": "3",
             "title": "",
             "heading_tag": "h4",
@@ -535,6 +555,7 @@
         "item_fdtEqN": {
           "type": "item",
           "settings": {
+            "video": "shopify://files/videos/MultiColumn3 (1).mp4",
             "column_size": "3",
             "title": "",
             "heading_tag": "h4",
@@ -556,9 +577,109 @@
         "stack_on_mobile": false,
         "gap": "medium",
         "text_alignment": "start",
-        "subheading": "About",
-        "title": "Featured content",
-        "content": "<p>Organize content into multiple columns to share useful information to your customers about your products, values...</p>",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "rich_text_f4cJjz": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_BmxXeY": {
+          "type": "heading",
+          "settings": {
+            "text": "Hören Sie auf, Ihre Ohren blind zu reinigen!",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_itEPTG": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Mit <strong>AURIS</strong> sehen Sie endlich, was wirklich darin steckt, entfernen Wachs <strong>ohne Risiko</strong>, <strong>ohne Schmerzen</strong>, mit <strong>chirurgischer Präzision</strong>.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_BmxXeY",
+        "richtext_itEPTG"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "media_grid_ekD76X": {
+      "type": "media-grid",
+      "blocks": {
+        "video_qVYwDJ": {
+          "type": "video",
+          "settings": {
+            "video": "shopify://files/videos/6e5322e9a0d4469b9370051a0c0e03a8.HD-1080p-3.3Mbps-50353120 (1) (1).mp4",
+            "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "show_video_controls": false,
+            "title": "",
+            "heading_tag": "h4",
+            "link_url": "",
+            "link_text": "",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_column_span": 2,
+            "desktop_row_span": 2,
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "#000000",
+            "button_text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "video_qVYwDJ"
+      ],
+      "name": "Media grid",
+      "settings": {
+        "full_width": true,
+        "reduce_width": false,
+        "desktop_row_height": 290,
+        "mobile_row_height": 150,
+        "background": "",
+        "background_gradient": ""
+      }
+    },
+    "rich_text_PR9CWe": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_yDFPWm": {
+          "type": "heading",
+          "settings": {
+            "text": "Warum unser Gerät wählen ?",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_yDFPWm"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
         "background": "",
         "background_gradient": "",
         "text_color": ""
@@ -577,6 +698,9 @@
     "featured_product_TBKhLy",
     "tabs_pz76Qc",
     "rich_text_6dKnUa",
-    "multi_column_QzpX3t"
+    "multi_column_QzpX3t",
+    "rich_text_f4cJjz",
+    "media_grid_ekD76X",
+    "rich_text_PR9CWe"
   ]
 }
